@@ -1,0 +1,12 @@
+.css-display {
+    background: #858694;
+    color: white;
+    text-align: center;
+    padding: 15px 10px;
+    width: 100%;
+}
+
+.css-display > div{
+    font-size: 3em;
+    font-weight: bold;
+}

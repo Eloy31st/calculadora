@@ -1,0 +1,7 @@
+.css-app {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 80vh;
+    padding: 50px 200px;
+}
